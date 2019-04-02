@@ -105,7 +105,7 @@ analytics:
 
 
 # Site Author
-author:"/assets/images/벚꽃.jpg"
+author: "/assets/images/벚꽃.jpg"
   name             : "gayoung lee"
   avatar           :"/assets/images/벚꽃.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am gayoung."
